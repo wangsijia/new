@@ -1,1 +1,1 @@
-<?php echo "this is a check php file"; ?>
+<?php echo "this is a check php file   "; ?>
